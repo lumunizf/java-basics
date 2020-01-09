@@ -1,6 +1,6 @@
-# Java Basics
+# Java
 
-## Exercícios em Java
+## Exercícios do curso:
 
  - [x] :coffee: Curso de Java básico - By [Loiane Groner](http://loiane.training).
 
