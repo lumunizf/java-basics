@@ -6,3 +6,5 @@ class Erro02 {
 	System.out.println("Você digitou: " + cont);
 	}
 }
+
+//some changes
